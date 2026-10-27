@@ -26,9 +26,9 @@ export const profile = {
     "Technology Consultant",
     "Community Builder",
   ],
-  headline: "I build businesses, develop talent, and engineer cloud systems that work in production.",
+  headline: "I build businesses, engineer reliable technology, and turn digital skills into opportunity.",
   intro:
-    "I'm an entrepreneur and technology consultant from Gilgit-Baltistan, Pakistan. As Founder & CEO of Core Elite Experts, I help businesses modernise their infrastructure, automate delivery, and ship reliable products — and as a digital educator, I mentor young people building careers in the digital economy.",
+    "I'm an entrepreneur, technology consultant, and digital educator from Gilgit-Baltistan, Pakistan. As Founder & CEO of Core Elite Experts, I help businesses deliver reliable technology solutions while supporting people in developing practical digital skills and building careers in the global digital economy.",
   location: "Gilgit-Baltistan, Pakistan",
   languages: ["English", "Urdu", "Hindi"],
   availability: "Open to consulting, freelance projects, partnerships & speaking",
